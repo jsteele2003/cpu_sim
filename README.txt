@@ -1,5 +1,7 @@
 *****README.txt*****
 
+Group Name: MUX switches, get money
+
 Andrew Martin 260456771
 Joe Steele 260516386
 Hyunyung Boo 260513655
