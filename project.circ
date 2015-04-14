@@ -1177,7 +1177,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="0" loc="(2280,1210)" name="Constant">
       <a name="facing" val="west"/>
       <a name="width" val="8"/>
-      <a name="value" val="0xc"/>
+      <a name="value" val="0xd"/>
     </comp>
     <comp lib="5" loc="(740,1250)" name="7-Segment Display"/>
     <comp lib="0" loc="(1080,890)" name="Probe">
